@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.248 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 5.248 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.25 
+            text = "" 
+        intervals [2]:
+            xmin = 1.25 
+            xmax = 1.33 
+            text = "ግን" 
+        intervals [3]:
+            xmin = 1.33 
+            xmax = 1.92 
+            text = "እነሱ" 
+        intervals [4]:
+            xmin = 1.92 
+            xmax = 2.63 
+            text = "አፈንግጠው" 
+        intervals [5]:
+            xmin = 2.63 
+            xmax = 3.13 
+            text = "ባይወጡ" 
+        intervals [6]:
+            xmin = 3.13 
+            xmax = 3.73 
+            text = "ልዩነቱ" 
+        intervals [7]:
+            xmin = 3.73 
+            xmax = 4.22 
+            text = "መጥበብ" 
+        intervals [8]:
+            xmin = 4.22 
+            xmax = 4.5 
+            text = "ይችል" 
+        intervals [9]:
+            xmin = 4.5 
+            xmax = 5.248 
+            text = "ነበር" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 5.248 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.25 
+            text = "" 
+        intervals [2]:
+            xmin = 1.25 
+            xmax = 1.3 
+            text = "ግ" 
+        intervals [3]:
+            xmin = 1.3 
+            xmax = 1.33 
+            text = "ን" 
+        intervals [4]:
+            xmin = 1.33 
+            xmax = 1.67 
+            text = "እ" 
+        intervals [5]:
+            xmin = 1.67 
+            xmax = 1.7 
+            text = "ነ" 
+        intervals [6]:
+            xmin = 1.7 
+            xmax = 1.92 
+            text = "ሱ" 
+        intervals [7]:
+            xmin = 1.92 
+            xmax = 2.09 
+            text = "አ" 
+        intervals [8]:
+            xmin = 2.09 
+            xmax = 2.23 
+            text = "ፈ" 
+        intervals [9]:
+            xmin = 2.23 
+            xmax = 2.33 
+            text = "ን" 
+        intervals [10]:
+            xmin = 2.33 
+            xmax = 2.42 
+            text = "ግ" 
+        intervals [11]:
+            xmin = 2.42 
+            xmax = 2.56 
+            text = "ጠ" 
+        intervals [12]:
+            xmin = 2.56 
+            xmax = 2.63 
+            text = "ው" 
+        intervals [13]:
+            xmin = 2.63 
+            xmax = 2.81 
+            text = "ባ" 
+        intervals [14]:
+            xmin = 2.81 
+            xmax = 2.87 
+            text = "ይ" 
+        intervals [15]:
+            xmin = 2.87 
+            xmax = 2.99 
+            text = "ወ" 
+        intervals [16]:
+            xmin = 2.99 
+            xmax = 3.13 
+            text = "ጡ" 
+        intervals [17]:
+            xmin = 3.13 
+            xmax = 3.53 
+            text = "ል" 
+        intervals [18]:
+            xmin = 3.53 
+            xmax = 3.56 
+            text = "ዩ" 
+        intervals [19]:
+            xmin = 3.56 
+            xmax = 3.59 
+            text = "ነ" 
+        intervals [20]:
+            xmin = 3.59 
+            xmax = 3.73 
+            text = "ቱ" 
+        intervals [21]:
+            xmin = 3.73 
+            xmax = 3.93 
+            text = "መ" 
+        intervals [22]:
+            xmin = 3.93 
+            xmax = 4.09 
+            text = "ጥ" 
+        intervals [23]:
+            xmin = 4.09 
+            xmax = 4.15 
+            text = "በ" 
+        intervals [24]:
+            xmin = 4.15 
+            xmax = 4.22 
+            text = "ብ" 
+        intervals [25]:
+            xmin = 4.22 
+            xmax = 4.27 
+            text = "ይ" 
+        intervals [26]:
+            xmin = 4.27 
+            xmax = 4.45 
+            text = "ች" 
+        intervals [27]:
+            xmin = 4.45 
+            xmax = 4.5 
+            text = "ል" 
+        intervals [28]:
+            xmin = 4.5 
+            xmax = 5.17 
+            text = "ነ" 
+        intervals [29]:
+            xmin = 5.17 
+            xmax = 5.2 
+            text = "በ" 
+        intervals [30]:
+            xmin = 5.2 
+            xmax = 5.248 
+            text = "ር" 

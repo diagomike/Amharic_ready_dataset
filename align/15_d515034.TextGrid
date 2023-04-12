@@ -1,0 +1,168 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.096 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.096 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.02 
+            text = "" 
+        intervals [2]:
+            xmin = 1.02 
+            xmax = 1.58 
+            text = "ኢትዮጵያዊያን" 
+        intervals [3]:
+            xmin = 1.58 
+            xmax = 2 
+            text = "ጀግኖች" 
+        intervals [4]:
+            xmin = 2 
+            xmax = 2.48 
+            text = "መሆናችን" 
+        intervals [5]:
+            xmin = 2.48 
+            xmax = 3.17 
+            text = "ልናሳያቸው" 
+        intervals [6]:
+            xmin = 3.17 
+            xmax = 3.7 
+            text = "ይገባናል" 
+        intervals [7]:
+            xmin = 3.7 
+            xmax = 4.096 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 4.096 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.02 
+            text = "" 
+        intervals [2]:
+            xmin = 1.02 
+            xmax = 1.06 
+            text = "ኢ" 
+        intervals [3]:
+            xmin = 1.06 
+            xmax = 1.14 
+            text = "ት" 
+        intervals [4]:
+            xmin = 1.14 
+            xmax = 1.27 
+            text = "ዮ" 
+        intervals [5]:
+            xmin = 1.27 
+            xmax = 1.31 
+            text = "ጵ" 
+        intervals [6]:
+            xmin = 1.31 
+            xmax = 1.34 
+            text = "ያ" 
+        intervals [7]:
+            xmin = 1.34 
+            xmax = 1.37 
+            text = "ዊ" 
+        intervals [8]:
+            xmin = 1.37 
+            xmax = 1.48 
+            text = "ያ" 
+        intervals [9]:
+            xmin = 1.48 
+            xmax = 1.58 
+            text = "ን" 
+        intervals [10]:
+            xmin = 1.58 
+            xmax = 1.71 
+            text = "ጀ" 
+        intervals [11]:
+            xmin = 1.71 
+            xmax = 1.79 
+            text = "ግ" 
+        intervals [12]:
+            xmin = 1.79 
+            xmax = 1.91 
+            text = "ኖ" 
+        intervals [13]:
+            xmin = 1.91 
+            xmax = 2 
+            text = "ች" 
+        intervals [14]:
+            xmin = 2 
+            xmax = 2.07 
+            text = "መ" 
+        intervals [15]:
+            xmin = 2.07 
+            xmax = 2.17 
+            text = "ሆ" 
+        intervals [16]:
+            xmin = 2.17 
+            xmax = 2.27 
+            text = "ና" 
+        intervals [17]:
+            xmin = 2.27 
+            xmax = 2.42 
+            text = "ች" 
+        intervals [18]:
+            xmin = 2.42 
+            xmax = 2.48 
+            text = "ን" 
+        intervals [19]:
+            xmin = 2.48 
+            xmax = 2.55 
+            text = "ል" 
+        intervals [20]:
+            xmin = 2.55 
+            xmax = 2.7 
+            text = "ና" 
+        intervals [21]:
+            xmin = 2.7 
+            xmax = 2.82 
+            text = "ሳ" 
+        intervals [22]:
+            xmin = 2.82 
+            xmax = 2.98 
+            text = "ያ" 
+        intervals [23]:
+            xmin = 2.98 
+            xmax = 3.14 
+            text = "ቸ" 
+        intervals [24]:
+            xmin = 3.14 
+            xmax = 3.17 
+            text = "ው" 
+        intervals [25]:
+            xmin = 3.17 
+            xmax = 3.2 
+            text = "ይ" 
+        intervals [26]:
+            xmin = 3.2 
+            xmax = 3.33 
+            text = "ገ" 
+        intervals [27]:
+            xmin = 3.33 
+            xmax = 3.53 
+            text = "ባ" 
+        intervals [28]:
+            xmin = 3.53 
+            xmax = 3.66 
+            text = "ና" 
+        intervals [29]:
+            xmin = 3.66 
+            xmax = 3.7 
+            text = "ል" 
+        intervals [30]:
+            xmin = 3.7 
+            xmax = 4.096 
+            text = "" 

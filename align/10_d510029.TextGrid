@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.968 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.968 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.91 
+            text = "" 
+        intervals [2]:
+            xmin = 0.91 
+            xmax = 1.41 
+            text = "በሙያው" 
+        intervals [3]:
+            xmin = 1.41 
+            xmax = 1.72 
+            text = "ለብዙ" 
+        intervals [4]:
+            xmin = 1.72 
+            xmax = 2.09 
+            text = "ጊዜ" 
+        intervals [5]:
+            xmin = 2.09 
+            xmax = 2.76 
+            text = "ሰርቻለሁ" 
+        intervals [6]:
+            xmin = 2.76 
+            xmax = 3.968 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 3.968 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.91 
+            text = "" 
+        intervals [2]:
+            xmin = 0.91 
+            xmax = 1.05 
+            text = "በ" 
+        intervals [3]:
+            xmin = 1.05 
+            xmax = 1.17 
+            text = "ሙ" 
+        intervals [4]:
+            xmin = 1.17 
+            xmax = 1.28 
+            text = "ያ" 
+        intervals [5]:
+            xmin = 1.28 
+            xmax = 1.41 
+            text = "ው" 
+        intervals [6]:
+            xmin = 1.41 
+            xmax = 1.51 
+            text = "ለ" 
+        intervals [7]:
+            xmin = 1.51 
+            xmax = 1.69 
+            text = "ብ" 
+        intervals [8]:
+            xmin = 1.69 
+            xmax = 1.72 
+            text = "ዙ" 
+        intervals [9]:
+            xmin = 1.72 
+            xmax = 2 
+            text = "ጊ" 
+        intervals [10]:
+            xmin = 2 
+            xmax = 2.09 
+            text = "ዜ" 
+        intervals [11]:
+            xmin = 2.09 
+            xmax = 2.21 
+            text = "ሰ" 
+        intervals [12]:
+            xmin = 2.21 
+            xmax = 2.32 
+            text = "ር" 
+        intervals [13]:
+            xmin = 2.32 
+            xmax = 2.57 
+            text = "ቻ" 
+        intervals [14]:
+            xmin = 2.57 
+            xmax = 2.72 
+            text = "ለ" 
+        intervals [15]:
+            xmin = 2.72 
+            xmax = 2.76 
+            text = "ሁ" 
+        intervals [16]:
+            xmin = 2.76 
+            xmax = 3.968 
+            text = "" 

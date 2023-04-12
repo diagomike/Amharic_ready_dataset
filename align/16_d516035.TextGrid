@@ -1,0 +1,244 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.704 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 8.704 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.06 
+            text = "" 
+        intervals [2]:
+            xmin = 1.06 
+            xmax = 1.29 
+            text = "ግን" 
+        intervals [3]:
+            xmin = 1.29 
+            xmax = 2.49 
+            text = "ዜጐቻችንን" 
+        intervals [4]:
+            xmin = 2.49 
+            xmax = 3.26 
+            text = "እንዲሰጡን" 
+        intervals [5]:
+            xmin = 3.26 
+            xmax = 3.87 
+            text = "ብንጠይቅም" 
+        intervals [6]:
+            xmin = 3.87 
+            xmax = 4.43 
+            text = "ሊሰጡን" 
+        intervals [7]:
+            xmin = 4.43 
+            xmax = 4.89 
+            text = "አልቻሉም" 
+        intervals [8]:
+            xmin = 4.89 
+            xmax = 5.48 
+            text = "በማለት" 
+        intervals [9]:
+            xmin = 5.48 
+            xmax = 6.03 
+            text = "ለቪኦኤዋ" 
+        intervals [10]:
+            xmin = 6.03 
+            xmax = 7.48 
+            text = "ዘጋቢ" 
+        intervals [11]:
+            xmin = 7.48 
+            xmax = 8.23 
+            text = "ገልጸዋል" 
+        intervals [12]:
+            xmin = 8.23 
+            xmax = 8.704 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 8.704 
+        intervals: size = 44 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.06 
+            text = "" 
+        intervals [2]:
+            xmin = 1.06 
+            xmax = 1.11 
+            text = "ግ" 
+        intervals [3]:
+            xmin = 1.11 
+            xmax = 1.29 
+            text = "ን" 
+        intervals [4]:
+            xmin = 1.29 
+            xmax = 1.73 
+            text = "ዜ" 
+        intervals [5]:
+            xmin = 1.73 
+            xmax = 1.74 
+            text = "ጐ" 
+        intervals [6]:
+            xmin = 1.74 
+            xmax = 2.1 
+            text = "ቻ" 
+        intervals [7]:
+            xmin = 2.1 
+            xmax = 2.31 
+            text = "ች" 
+        intervals [8]:
+            xmin = 2.31 
+            xmax = 2.4 
+            text = "ን" 
+        intervals [9]:
+            xmin = 2.4 
+            xmax = 2.49 
+            text = "ን" 
+        intervals [10]:
+            xmin = 2.49 
+            xmax = 2.58 
+            text = "እ" 
+        intervals [11]:
+            xmin = 2.58 
+            xmax = 2.71 
+            text = "ን" 
+        intervals [12]:
+            xmin = 2.71 
+            xmax = 2.79 
+            text = "ዲ" 
+        intervals [13]:
+            xmin = 2.79 
+            xmax = 2.94 
+            text = "ሰ" 
+        intervals [14]:
+            xmin = 2.94 
+            xmax = 3.15 
+            text = "ጡ" 
+        intervals [15]:
+            xmin = 3.15 
+            xmax = 3.26 
+            text = "ን" 
+        intervals [16]:
+            xmin = 3.26 
+            xmax = 3.35 
+            text = "ብ" 
+        intervals [17]:
+            xmin = 3.35 
+            xmax = 3.48 
+            text = "ን" 
+        intervals [18]:
+            xmin = 3.48 
+            xmax = 3.6 
+            text = "ጠ" 
+        intervals [19]:
+            xmin = 3.6 
+            xmax = 3.74 
+            text = "ይ" 
+        intervals [20]:
+            xmin = 3.74 
+            xmax = 3.84 
+            text = "ቅ" 
+        intervals [21]:
+            xmin = 3.84 
+            xmax = 3.87 
+            text = "ም" 
+        intervals [22]:
+            xmin = 3.87 
+            xmax = 4.09 
+            text = "ሊ" 
+        intervals [23]:
+            xmin = 4.09 
+            xmax = 4.2 
+            text = "ሰ" 
+        intervals [24]:
+            xmin = 4.2 
+            xmax = 4.38 
+            text = "ጡ" 
+        intervals [25]:
+            xmin = 4.38 
+            xmax = 4.43 
+            text = "ን" 
+        intervals [26]:
+            xmin = 4.43 
+            xmax = 4.53 
+            text = "አ" 
+        intervals [27]:
+            xmin = 4.53 
+            xmax = 4.57 
+            text = "ል" 
+        intervals [28]:
+            xmin = 4.57 
+            xmax = 4.77 
+            text = "ቻ" 
+        intervals [29]:
+            xmin = 4.77 
+            xmax = 4.86 
+            text = "ሉ" 
+        intervals [30]:
+            xmin = 4.86 
+            xmax = 4.89 
+            text = "ም" 
+        intervals [31]:
+            xmin = 4.89 
+            xmax = 5.16 
+            text = "በ" 
+        intervals [32]:
+            xmin = 5.16 
+            xmax = 5.35 
+            text = "ማ" 
+        intervals [33]:
+            xmin = 5.35 
+            xmax = 5.45 
+            text = "ለ" 
+        intervals [34]:
+            xmin = 5.45 
+            xmax = 5.48 
+            text = "ት" 
+        intervals [35]:
+            xmin = 5.48 
+            xmax = 6.03 
+            text = "spn" 
+        intervals [36]:
+            xmin = 6.03 
+            xmax = 7.3 
+            text = "ዘ" 
+        intervals [37]:
+            xmin = 7.3 
+            xmax = 7.41 
+            text = "ጋ" 
+        intervals [38]:
+            xmin = 7.41 
+            xmax = 7.48 
+            text = "ቢ" 
+        intervals [39]:
+            xmin = 7.48 
+            xmax = 7.86 
+            text = "ገ" 
+        intervals [40]:
+            xmin = 7.86 
+            xmax = 7.98 
+            text = "ል" 
+        intervals [41]:
+            xmin = 7.98 
+            xmax = 8.11 
+            text = "ጸ" 
+        intervals [42]:
+            xmin = 8.11 
+            xmax = 8.18 
+            text = "ዋ" 
+        intervals [43]:
+            xmin = 8.18 
+            xmax = 8.23 
+            text = "ል" 
+        intervals [44]:
+            xmin = 8.23 
+            xmax = 8.704 
+            text = "" 
